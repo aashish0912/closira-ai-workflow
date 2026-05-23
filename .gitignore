@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+session_summary.json
+escalation_log.jsonl
